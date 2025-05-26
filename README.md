@@ -17,6 +17,4 @@ This repository is part of my GitHub learning journey. I'm practicing how to:
 - `hello.txt` – My first file on GitHub, just a test
 
 
-## Author
 
-Ramlah..
